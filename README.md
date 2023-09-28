@@ -1,0 +1,2 @@
+# FazMouseClicker
+Fast mouse clicker.
